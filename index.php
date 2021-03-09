@@ -1,11 +1,5 @@
 <?php
 
-// 69 ATMを作成しよう
-// コマンドラインから実行すること
-// 要件定義
-// ・残額、入金、引き出しの機能を実装
-// 実際にATMに必要な機能をリストアップして、ご自由に開発してみてください！
-
 require_once('validation/BaseValidation.php');
 require_once('validation/InputOrderValidation.php');
 require_once('validation/PasswordValidation.php');
